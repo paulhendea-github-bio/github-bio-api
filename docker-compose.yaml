@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  mongo:
+    container_name: mongodb
+    image: mongo:latest
+    restart: always
+    ports:
+      - 27018:27017
+    environment:
+      MONGO_INITDB_DATABASE: github-bio
+    networks:
+      - mongodb
+  
+  mongo-seed:
+    container_name: mongo-seed
+    build: ./mongo-seed
+    networks:
+      - mongodb
+    depends_on:
+      - mongo
+
+networks:
+  mongodb:

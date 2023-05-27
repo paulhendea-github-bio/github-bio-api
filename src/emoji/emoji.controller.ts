@@ -5,6 +5,7 @@ import {
   Query,
   HttpException,
   HttpStatus,
+  ParseIntPipe,
 } from '@nestjs/common';
 import { EmojiService } from './emoji.service';
 import { EmojisResponse } from './dto';
@@ -17,8 +18,8 @@ export class EmojiController {
 
   @Get()
   async getEmojis(
-    @Query('page') page = 1,
-    @Query('limit') limit = 10,
+    @Query('page', ParseIntPipe) page = 1,
+    @Query('limit', ParseIntPipe) limit = 10,
   ): Promise<EmojisResponse> {
     const data = await this.emojiService.findAll({ page, limit });
     return { data, limit, page };

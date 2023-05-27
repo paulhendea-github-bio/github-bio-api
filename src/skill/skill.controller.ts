@@ -4,6 +4,7 @@ import {
   HttpException,
   HttpStatus,
   Param,
+  ParseIntPipe,
   Query,
 } from '@nestjs/common';
 import { SkillService } from './skill.service';
@@ -17,8 +18,8 @@ export class SkillController {
 
   @Get()
   async getSkills(
-    @Query('page') page = 1,
-    @Query('limit') limit = 10,
+    @Query('page', ParseIntPipe) page = 1,
+    @Query('limit', ParseIntPipe) limit = 10,
   ): Promise<SkillsResponse> {
     const data = await this.skillService.findAll({ page, limit });
     return { data, limit, page };

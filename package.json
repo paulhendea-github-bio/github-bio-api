@@ -6,7 +6,7 @@
   "private": true,
   "license": "MIT License",
   "scripts": {
-    "mongodb-restart:dev": "docker compose up -d", 
+    "mongodb-restart:dev": "docker compose up -d",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
@@ -27,6 +27,8 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/mongoose": "^9.2.2",
     "@nestjs/platform-express": "^9.0.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
     "mongoose": "^7.2.0",
     "openai": "^3.2.1",
     "reflect-metadata": "^0.1.13",

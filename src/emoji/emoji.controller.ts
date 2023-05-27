@@ -1,7 +1,15 @@
-import { Controller, Get, Param, Query } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Param,
+  Query,
+  HttpException,
+  HttpStatus,
+} from '@nestjs/common';
 import { EmojiService } from './emoji.service';
-import { EmojisDto } from './dto';
+import { EmojisResponse } from './dto';
 import { Emoji } from './schemas/emoji.schema';
+import { MongooseError } from 'mongoose';
 
 @Controller('/emojis')
 export class EmojiController {
@@ -11,13 +19,25 @@ export class EmojiController {
   async getEmojis(
     @Query('page') page = 1,
     @Query('limit') limit = 10,
-  ): Promise<EmojisDto> {
+  ): Promise<EmojisResponse> {
     const data = await this.emojiService.findAll({ page, limit });
     return { data, limit, page };
   }
 
   @Get('/:id')
-  getEmojiById(@Param('id') id: string): Promise<Emoji> {
-    return this.emojiService.findById(id);
+  async getEmojiById(@Param('id') id: string): Promise<Emoji> {
+    try {
+      const emoji = await this.emojiService.findById(id);
+      if (emoji === null)
+        throw new HttpException(
+          `No Emoji found for id ${id}`,
+          HttpStatus.NOT_FOUND,
+        );
+      return emoji;
+    } catch (error) {
+      if (error instanceof MongooseError)
+        throw new HttpException(error.message, HttpStatus.BAD_REQUEST);
+      else throw error;
+    }
   }
 }

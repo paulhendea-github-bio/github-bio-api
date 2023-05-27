@@ -3,7 +3,7 @@ import { HydratedDocument } from 'mongoose';
 
 export type EmojiDocument = HydratedDocument<Emoji>;
 
-@Schema()
+@Schema({ toJSON: { virtuals: true }, id: false })
 export class Emoji {
   @Prop({ required: true })
   filename: string;
@@ -13,9 +13,10 @@ export class Emoji {
 
   @Prop({ required: true })
   category: string;
-
-  @Prop()
-  url?: string;
 }
 
 export const EmojiSchema = SchemaFactory.createForClass(Emoji);
+EmojiSchema.virtual('url').get(function () {
+  const { ASSETS_URL } = process.env;
+  return ASSETS_URL + this.filename;
+});

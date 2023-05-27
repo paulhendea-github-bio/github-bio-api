@@ -1,1 +1,1 @@
-export * from './emojis.dto';
+export * from './EmojisResponse.dto';

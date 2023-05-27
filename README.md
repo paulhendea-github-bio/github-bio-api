@@ -1,6 +1,8 @@
 # github-bio-api
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank">
+    <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
+  </a>
 </p>
 
 ## Description
@@ -15,6 +17,15 @@ $ npm install
 
 ## Running the app
 
+Create a file `.env` from `.env.example` and set the propeties values.
+
+Setup the database.
+```bash
+$ npm run mongodb-restart:dev
+
+```
+
+Run the app
 ```bash
 # development
 $ npm run start

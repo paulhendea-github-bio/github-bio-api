@@ -4,13 +4,13 @@ import {
   HttpException,
   HttpStatus,
   Param,
-  ParseIntPipe,
   Query,
 } from '@nestjs/common';
 import { SkillService } from './skill.service';
 import { Skill } from './schemas/skill.schema';
 import { MongooseError } from 'mongoose';
 import { SkillsResponse } from './dto';
+import { SkillsRequest } from './dto/SkillsRequest.dto';
 
 @Controller('/skills')
 export class SkillController {
@@ -18,8 +18,7 @@ export class SkillController {
 
   @Get()
   async getSkills(
-    @Query('page', ParseIntPipe) page = 1,
-    @Query('limit', ParseIntPipe) limit = 10,
+    @Query() { limit, page }: SkillsRequest,
   ): Promise<SkillsResponse> {
     const data = await this.skillService.findAll({ page, limit });
     return { data, limit, page };

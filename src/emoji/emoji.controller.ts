@@ -11,6 +11,7 @@ import { EmojiService } from './emoji.service';
 import { EmojisResponse } from './dto';
 import { Emoji } from './schemas/emoji.schema';
 import { MongooseError } from 'mongoose';
+import { EmojisRequest } from './dto/EmojisRequest.dto';
 
 @Controller('/emojis')
 export class EmojiController {
@@ -18,8 +19,7 @@ export class EmojiController {
 
   @Get()
   async getEmojis(
-    @Query('page', ParseIntPipe) page = 1,
-    @Query('limit', ParseIntPipe) limit = 10,
+    @Query() { limit, page }: EmojisRequest,
   ): Promise<EmojisResponse> {
     const data = await this.emojiService.findAll({ page, limit });
     return { data, limit, page };

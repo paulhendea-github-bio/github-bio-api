@@ -5,7 +5,6 @@ import {
   Query,
   HttpException,
   HttpStatus,
-  ParseIntPipe,
 } from '@nestjs/common';
 import { EmojiService } from './emoji.service';
 import { EmojisResponse } from './dto';

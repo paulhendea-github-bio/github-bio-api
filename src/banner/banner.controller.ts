@@ -10,6 +10,7 @@ export class BannerController {
     @Param('banner') banner: string,
     @Query('title') title = 'Hello, world!',
     @Query('subtitle') subtitle = 'Subtitle',
+    @Query('transparent') transparent: boolean,
     @Res() res: Response,
   ) {
     // Get template names from views
@@ -26,6 +27,6 @@ export class BannerController {
     else
       return res
         .contentType('image/svg+xml')
-        .render(banner, { title, subtitle });
+        .render(banner, { title, subtitle, transparent });
   }
 }

@@ -1,4 +1,4 @@
-
+export default ({ transparent, title }) => `
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -12,9 +12,7 @@
                 margin: 0;
                 width: 100%;
                 height: 400px;
-                {{#unless transparent}}
-        	    background-color: rgb(25, 25, 25);
-                {{/unless}}
+                ${transparent ? '' : 'background-color: rgb(25, 25, 25);'}
                 border-radius: 10px;
                 color: rgba(255, 255, 255, .75);
                 text-align: center;
@@ -33,7 +31,9 @@
                 }
                 /* Animation */
                 .anim-typewriter {
-                animation: typewriter 1s steps({{title.length}}) 1s 1 normal both,
+                animation: typewriter 1s steps(${
+                  title.length
+                }) 1s 1 normal both,
                     blinkTextCursor 500ms infinite normal;
                 }
                 @keyframes typewriter {
@@ -55,9 +55,10 @@
             </style>
             <div class="container">
                 <div class="type-writer">
-                    <p class="line-1 anim-typewriter">{{ title }}</p>
+                    <p class="line-1 anim-typewriter">${title}</p>
                 </div>
             </div>
         </div>
     </foreignObject>
 </svg>
+`;

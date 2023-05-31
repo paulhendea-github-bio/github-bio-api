@@ -1,3 +1,4 @@
+export default ({ transparent, title, subtitle }) => `
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -58,9 +59,11 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-          {{#unless transparent}}
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					{{/unless}}
+          ${
+            transparent
+              ? ''
+              : 'background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);'
+          }
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -89,9 +92,10 @@
 				}
 			</style>
 			<div class="container">
-				<h1>{{ title }}</h1>
-				<p>{{ subtitle }}</p>
+				<h1>${title}</h1>
+				<p>${subtitle ?? ''}</p>
 			</div>
 		</div>
 	</foreignObject>
 </svg>
+`;

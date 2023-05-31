@@ -1,3 +1,4 @@
+export default ({ transparent, title }) => `
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -36,9 +37,11 @@
                     margin: 0;
                     width: 100%;
                     height: 400px;
-                    {{#unless transparent}}
-                    background-color: var(--color-background);
-                    {{/unless}}
+                    ${
+                      transparent
+                        ? ''
+                        : 'background-color: var(--color-background);'
+                    }
                     background-size: 600% 400%;
                     border-radius: 10px;
                     color: rgba(255, 255, 255, .75);
@@ -150,15 +153,16 @@
             </style>
             <div class="container">
                 <ul class="c-rainbow">
-                    <li class="c-rainbow__layer c-rainbow__layer--yellow">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--green">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--blue">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--violet">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--red">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--orange">{{ title }}</li>
-                    <li class="c-rainbow__layer c-rainbow__layer--white">{{ title }}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--yellow">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--green">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--blue">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--violet">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--red">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--orange">${title}</li>
+                    <li class="c-rainbow__layer c-rainbow__layer--white">${title}</li>
                 </ul>
             </div>
         </div>
     </foreignObject>
 </svg>
+`;

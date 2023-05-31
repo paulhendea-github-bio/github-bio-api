@@ -1,3 +1,4 @@
+export default ({ transparent, title }) => `
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -11,9 +12,7 @@
                     margin: 0;
                     width: 100%;
                     height: 400px;
-                    {{#unless transparent}}
-                    background: #333;
-                    {{/unless}}
+                    ${transparent ? '' : 'background: #333;'}
                     background-size: 600% 400%;
                     border-radius: 10px;
                     text-align: center;
@@ -246,10 +245,11 @@
                 }
             </style>
             <div class="container">
-                <h1>{{ title }}</h1>
-                <h1>{{ title }}</h1>
-                <h1>{{ title }}</h1>
+                <h1>${title}</h1>
+                <h1>${title}</h1>
+                <h1>${title}</h1>
             </div>
         </div>
     </foreignObject>
 </svg>
+`;

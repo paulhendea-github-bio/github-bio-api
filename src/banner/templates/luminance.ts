@@ -1,3 +1,4 @@
+export default ({ transparent, title }) => `
 <svg fill='none' viewBox='0 0 800 400' width='800' height='400' xmlns='http://www.w3.org/2000/svg'>
     <foreignObject width='100%' height='100%'>
         <div xmlns='http://www.w3.org/1999/xhtml'>
@@ -12,9 +13,7 @@
                     margin: 0;
                     width: 100%;
                     height: 400px;
-                    {{#unless transparent}}
-                    background: #333641;
-                    {{/unless}}
+                    ${transparent ? '' : 'background: #333641;'}
                     background-size: 600% 400%;
                     border-radius: 10px;
                     color: white;
@@ -70,9 +69,10 @@
             </style>
             <div class='container'>
                 <div class='luminance'>
-                    {{title}}
+                    ${title}
                 </div>
             </div>
         </div>
     </foreignObject>
 </svg>
+`;

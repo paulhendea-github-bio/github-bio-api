@@ -1,32 +1,32 @@
-import { Controller, Get, HttpStatus, Param, Query, Res } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  HttpException,
+  HttpStatus,
+  Param,
+  Query,
+  Res,
+} from '@nestjs/common';
 import { Response } from 'express';
-import { readdirSync } from 'fs';
-import { join } from 'path';
 
 @Controller('/banners')
 export class BannerController {
   @Get('/:banner')
-  getBanner(
+  async getBanner(
     @Param('banner') banner: string,
     @Query('title') title = 'Hello, world!',
     @Query('subtitle') subtitle = 'Subtitle',
     @Query('transparent') transparent: boolean,
     @Res() res: Response,
   ) {
-    // Get template names from views
-    const templates = new Set<string>();
-    readdirSync(join(__dirname, '../../svg-banners')).forEach((template) => {
-      const templateName = template.substring(0, template.lastIndexOf('.'));
-      templates.add(templateName);
+    const template = await import(`./templates/${banner}`).catch(() => {
+      throw new HttpException(
+        `Cannot find a template for '${banner}'`,
+        HttpStatus.BAD_REQUEST,
+      );
     });
-    // Check if the banner exists in templates
-    if (!templates.has(banner))
-      return res
-        .status(HttpStatus.BAD_REQUEST)
-        .send({ message: `Banner ${banner} not found` });
-    else
-      return res
-        .contentType('image/svg+xml')
-        .render(banner, { title, subtitle, transparent });
+    return res
+      .setHeader('Content-Type', 'image/svg+xml')
+      .send(template.default({ title, transparent, subtitle }));
   }
 }

@@ -1,7 +1,8 @@
 import { Skill } from '../schemas/skill.schema';
+import { Mode } from './SkillsRequest.dto';
 
 export class SkillsResponse {
   data: Skill[];
-  limit: number;
-  page: number;
+  mode: Mode;
+  categories: string[];
 }

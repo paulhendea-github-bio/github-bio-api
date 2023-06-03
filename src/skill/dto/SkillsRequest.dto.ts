@@ -1,14 +1,11 @@
-import { Transform } from 'class-transformer';
-import { IsInt, IsOptional } from 'class-validator';
+import { IsEnum } from 'class-validator';
+
+export enum Mode {
+  dark = 'dark',
+  light = 'light',
+}
 
 export class SkillsRequest {
-  @IsOptional()
-  @IsInt()
-  @Transform((param) => parseInt(param.value))
-  limit?: number = 10;
-
-  @IsOptional()
-  @IsInt()
-  @Transform((param) => parseInt(param.value))
-  page?: number = 1;
+  @IsEnum(Mode)
+  mode: Mode = Mode.dark;
 }

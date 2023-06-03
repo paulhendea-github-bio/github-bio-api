@@ -10,6 +10,12 @@ export class Skill {
 
   @Prop({ required: true })
   name: string;
+
+  @Prop({ required: true })
+  category: string;
+
+  @Prop({ required: true })
+  mode: string;
 }
 
 export const SkillSchema = SchemaFactory.createForClass(Skill);

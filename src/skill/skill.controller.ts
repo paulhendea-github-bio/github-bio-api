@@ -17,11 +17,10 @@ export class SkillController {
   constructor(private readonly skillService: SkillService) {}
 
   @Get()
-  async getSkills(
-    @Query() { limit, page }: SkillsRequest,
-  ): Promise<SkillsResponse> {
-    const data = await this.skillService.findAll({ page, limit });
-    return { data, limit, page };
+  async getSkills(@Query() { mode }: SkillsRequest): Promise<SkillsResponse> {
+    const data = await this.skillService.findByMode({ mode });
+    const categories = await this.skillService.getCategories();
+    return { data, mode, categories };
   }
 
   @Get('/:id')

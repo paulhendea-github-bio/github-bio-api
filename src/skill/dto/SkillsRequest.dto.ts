@@ -1,4 +1,4 @@
-import { IsEnum } from 'class-validator';
+import { IsEnum, IsString } from 'class-validator';
 
 export enum Mode {
   dark = 'dark',
@@ -6,6 +6,9 @@ export enum Mode {
 }
 
 export class SkillsRequest {
+  @IsString()
+  category: string;
+
   @IsEnum(Mode)
   mode: Mode = Mode.dark;
 }

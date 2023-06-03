@@ -7,8 +7,9 @@ import { Model } from 'mongoose';
 export class SkillService {
   constructor(@InjectModel(Skill.name) private skillModel: Model<Skill>) {}
 
-  async findByMode({ mode }): Promise<Skill[]> {
+  async findByCategory({ category, mode }): Promise<Skill[]> {
     return await this.skillModel
+      .find({ category: category })
       .find({ $or: [{ mode: mode }, { mode: 'default' }] })
       .exec();
   }

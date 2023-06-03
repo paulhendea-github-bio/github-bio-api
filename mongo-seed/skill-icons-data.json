@@ -3,1914 +3,1914 @@
     "filename": "skill-icons/ableton-dark.svg",
     "name": "Ableton",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ableton-light.svg",
     "name": "Ableton",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/activitypub-dark.svg",
     "name": "ActivityPub",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/activitypub-light.svg",
     "name": "ActivityPub",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/actix-dark.svg",
     "name": "Actix",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/actix-light.svg",
     "name": "Actix",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/adonis.svg",
     "name": "Adonis",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/aftereffects.svg",
     "name": "AfterEffects",
     "mode": "default",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/aiscript-dark.svg",
     "name": "AiScript",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/aiscript-light.svg",
     "name": "AiScript",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/alpinejs-dark.svg",
     "name": "AlpineJS",
     "mode": "dark",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/alpinejs-light.svg",
     "name": "AlpineJS",
     "mode": "light",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/androidstudio-dark.svg",
-    "name": "AndroidStudio",
+    "name": "Android Studio",
     "mode": "dark",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/androidstudio-light.svg",
-    "name": "AndroidStudio",
+    "name": "Android Studio",
     "mode": "light",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/angular-dark.svg",
     "name": "Angular",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/angular-light.svg",
     "name": "Angular",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/ansible.svg",
     "name": "Ansible",
     "mode": "default",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/apollo.svg",
     "name": "Apollo",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/appwrite.svg",
     "name": "Appwrite",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/arduino.svg",
     "name": "Arduino",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/astro.svg",
     "name": "Astro",
     "mode": "default",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/atom.svg",
     "name": "Atom",
     "mode": "default",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/audition.svg",
     "name": "Audition",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/autocad-dark.svg",
     "name": "AutoCAD",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/autocad-light.svg",
     "name": "AutoCAD",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/aws-dark.svg",
     "name": "AWS",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/aws-light.svg",
     "name": "AWS",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/azul.svg",
     "name": "Azul",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/azure-dark.svg",
     "name": "Azure",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/azure-light.svg",
     "name": "Azure",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/babel.svg",
     "name": "Babel",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/bash-dark.svg",
     "name": "Bash",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/bash-light.svg",
     "name": "Bash",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/bevy-dark.svg",
     "name": "Bevy",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/bevy-light.svg",
     "name": "Bevy",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/blender-dark.svg",
     "name": "Blender",
     "mode": "dark",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/blender-light.svg",
     "name": "Blender",
     "mode": "light",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/bootstrap.svg",
     "name": "Bootstrap",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/bsd-dark.svg",
     "name": "BSD",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/bsd-light.svg",
     "name": "BSD",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/c.svg",
     "name": "C",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/cassandra-dark.svg",
     "name": "Cassandra",
     "mode": "dark",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/cassandra-light.svg",
     "name": "Cassandra",
     "mode": "light",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/clojure-dark.svg",
     "name": "Clojure",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/clojure-light.svg",
     "name": "Clojure",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/cloudflare-dark.svg",
     "name": "Cloudflare",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/cloudflare-light.svg",
     "name": "Cloudflare",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/cmake-dark.svg",
     "name": "CMake",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/cmake-light.svg",
     "name": "CMake",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/codepen-dark.svg",
     "name": "CodePen",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/codepen-light.svg",
     "name": "CodePen",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/coffeescript-dark.svg",
     "name": "CoffeeScript",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/coffeescript-light.svg",
     "name": "CoffeeScript",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/cpp.svg",
     "name": "CPP",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/crystal-dark.svg",
     "name": "Crystal",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/crystal-light.svg",
     "name": "Crystal",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/cs.svg",
     "name": "CS",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/css.svg",
     "name": "CSS",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/d3-dark.svg",
     "name": "D3",
     "mode": "dark",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/d3-light.svg",
     "name": "D3",
     "mode": "light",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/dart-dark.svg",
     "name": "Dart",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/dart-light.svg",
     "name": "Dart",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/deno-dark.svg",
     "name": "DENO",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/deno-light.svg",
     "name": "DENO",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/devto-dark.svg",
     "name": "DevTo",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/devto-light.svg",
     "name": "DevTo",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/discord.svg",
     "name": "Discord",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/discordbots.svg",
     "name": "DiscordBots",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/django.svg",
     "name": "Django",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/docker.svg",
     "name": "Docker",
     "mode": "default",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/dotnet.svg",
     "name": "DotNet",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/dynamodb-dark.svg",
     "name": "DynamoDB",
     "mode": "dark",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/dynamodb-light.svg",
     "name": "DynamoDB",
     "mode": "light",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/eclipse-dark.svg",
     "name": "Eclipse",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/eclipse-light.svg",
     "name": "Eclipse",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/electron.svg",
     "name": "Electron",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/elixir-dark.svg",
     "name": "Elixir",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/elixir-light.svg",
     "name": "Elixir",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/emacs.svg",
     "name": "Emacs",
     "mode": "default",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/ember.svg",
     "name": "Ember",
     "mode": "default",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/emotion-dark.svg",
     "name": "Emotion",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/emotion-light.svg",
     "name": "Emotion",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/expressjs-dark.svg",
     "name": "ExpressJS",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/expressjs-light.svg",
     "name": "ExpressJS",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/fastapi.svg",
     "name": "FastAPI",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/fediverse-dark.svg",
     "name": "Fediverse",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/fediverse-light.svg",
     "name": "Fediverse",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/figma-dark.svg",
     "name": "Figma",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/figma-light.svg",
     "name": "Figma",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/firebase-dark.svg",
     "name": "Firebase",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/firebase-light.svg",
     "name": "Firebase",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/flask-dark.svg",
     "name": "Flask",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/flask-light.svg",
     "name": "Flask",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/flutter-dark.svg",
     "name": "Flutter",
     "mode": "dark",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/flutter-light.svg",
     "name": "Flutter",
     "mode": "light",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/forth.svg",
     "name": "Forth",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/fortran.svg",
     "name": "Fortran",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/gamemakerstudio.svg",
-    "name": "GameMakerStudio",
+    "name": "Game Maker Studio",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/gatsby.svg",
     "name": "Gatsby",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/gcp-dark.svg",
     "name": "GCP",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/gcp-light.svg",
     "name": "GCP",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/gherkin-dark.svg",
     "name": "Gherkin",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/gherkin-light.svg",
     "name": "Gherkin",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/git.svg",
     "name": "Git",
     "mode": "default",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/github-dark.svg",
     "name": "Github",
     "mode": "dark",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/github-light.svg",
     "name": "Github",
     "mode": "light",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/githubactions-dark.svg",
-    "name": "GithubActions",
+    "name": "Github Actions",
     "mode": "dark",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/githubactions-light.svg",
-    "name": "GithubActions",
+    "name": "Github Actions",
     "mode": "light",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/gitlab-dark.svg",
     "name": "GitLab",
     "mode": "dark",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/gitlab-light.svg",
     "name": "GitLab",
     "mode": "light",
-    "category": "Version Control/Git"
+    "category": "git"
   },
   {
     "filename": "skill-icons/godot-dark.svg",
     "name": "Godot",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/godot-light.svg",
     "name": "Godot",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/golang.svg",
     "name": "GoLang",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/gradle-dark.svg",
     "name": "Gradle",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/gradle-light.svg",
     "name": "Gradle",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/grafana-dark.svg",
     "name": "Grafana",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/grafana-light.svg",
     "name": "Grafana",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/graphql-dark.svg",
     "name": "GraphQL",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/graphql-light.svg",
     "name": "GraphQL",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/gtk-dark.svg",
     "name": "GTK",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/gtk-light.svg",
     "name": "GTK",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/gulp.svg",
     "name": "Gulp",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/haskell-dark.svg",
     "name": "Haskell",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/haskell-light.svg",
     "name": "Haskell",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/haxe-dark.svg",
     "name": "Haxe",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/haxe-light.svg",
     "name": "Haxe",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/haxeflixel-dark.svg",
     "name": "HaxeFlixel",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/haxeflixel-light.svg",
     "name": "HaxeFlixel",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/heroku.svg",
     "name": "Heroku",
     "mode": "default",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/hibernate-dark.svg",
     "name": "Hibernate",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/hibernate-light.svg",
     "name": "Hibernate",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/html.svg",
     "name": "HTML",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/idea-dark.svg",
     "name": "Idea",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/idea-light.svg",
     "name": "Idea",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/illustrator.svg",
     "name": "Illustrator",
     "mode": "default",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/instagram.svg",
     "name": "Instagram",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ipfs-dark.svg",
     "name": "IPFS",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ipfs-light.svg",
     "name": "IPFS",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/java-dark.svg",
     "name": "Java",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/java-light.svg",
     "name": "Java",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/javascript.svg",
     "name": "JavaScript",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/jenkins-dark.svg",
     "name": "Jenkins",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/jenkins-light.svg",
     "name": "Jenkins",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/jest.svg",
     "name": "Jest",
     "mode": "default",
-    "category": "Testing and Automation"
+    "category": "testing"
   },
   {
     "filename": "skill-icons/jquery.svg",
     "name": "JQuery",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/julia-dark.svg",
     "name": "Julia",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/julia-light.svg",
     "name": "Julia",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/kafka.svg",
     "name": "Kafka",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/kotlin-dark.svg",
     "name": "Kotlin",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/kotlin-light.svg",
     "name": "Kotlin",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/ktor-dark.svg",
     "name": "Ktor",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ktor-light.svg",
     "name": "Ktor",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/kubernetes.svg",
     "name": "Kubernetes",
     "mode": "default",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/laravel-dark.svg",
     "name": "Laravel",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/laravel-light.svg",
     "name": "Laravel",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/latex-dark.svg",
     "name": "LaTeX",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/latex-light.svg",
     "name": "LaTeX",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/linkedin.svg",
     "name": "LinkedIn",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/linux-dark.svg",
     "name": "Linux",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/linux-light.svg",
     "name": "Linux",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/lit-dark.svg",
     "name": "Lit",
     "mode": "dark",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/lit-light.svg",
     "name": "Lit",
     "mode": "light",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/lua-dark.svg",
     "name": "Lua",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/lua-light.svg",
     "name": "Lua",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/markdown-dark.svg",
     "name": "Markdown",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/markdown-light.svg",
     "name": "Markdown",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/mastodon-dark.svg",
     "name": "Mastodon",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/mastodon-light.svg",
     "name": "Mastodon",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/materialui-dark.svg",
     "name": "MaterialUI",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/materialui-light.svg",
     "name": "MaterialUI",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/matlab-dark.svg",
     "name": "Matlab",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/matlab-light.svg",
     "name": "Matlab",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/maven-dark.svg",
     "name": "Maven",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/maven-light.svg",
     "name": "Maven",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/misskey-dark.svg",
     "name": "Misskey",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/misskey-light.svg",
     "name": "Misskey",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/mongodb.svg",
     "name": "MongoDB",
     "mode": "default",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/mysql-dark.svg",
     "name": "MySQL",
     "mode": "dark",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/mysql-light.svg",
     "name": "MySQL",
     "mode": "light",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/neovim-dark.svg",
     "name": "NeoVim",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/neovim-light.svg",
     "name": "NeoVim",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/nestjs-dark.svg",
     "name": "NestJS",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/nestjs-light.svg",
     "name": "NestJS",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/netlify-dark.svg",
     "name": "Netlify",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/netlify-light.svg",
     "name": "Netlify",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/nextjs-dark.svg",
     "name": "NextJS",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/nextjs-light.svg",
     "name": "NextJS",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/nginx.svg",
     "name": "Nginx",
     "mode": "default",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/nim-dark.svg",
     "name": "Nim",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/nim-light.svg",
     "name": "Nim",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/nodejs-dark.svg",
     "name": "NodeJS",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/nodejs-light.svg",
     "name": "NodeJS",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/nuxtjs-dark.svg",
     "name": "NuxtJS",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/nuxtjs-light.svg",
     "name": "NuxtJS",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ocaml.svg",
     "name": "OCaml",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/octave-dark.svg",
     "name": "Octave",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/octave-light.svg",
     "name": "Octave",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/openshift.svg",
     "name": "OpenShift",
     "mode": "default",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/openstack-dark.svg",
     "name": "OpenStack",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/openstack-light.svg",
     "name": "OpenStack",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/perl.svg",
     "name": "Perl",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/photoshop.svg",
     "name": "Photoshop",
     "mode": "default",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/php-dark.svg",
     "name": "PHP",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/php-light.svg",
     "name": "PHP",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/plan9-dark.svg",
     "name": "Plan9",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/plan9-light.svg",
     "name": "Plan9",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/planetscale-dark.svg",
     "name": "PlanetScale",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/planetscale-light.svg",
     "name": "PlanetScale",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/postgresql-dark.svg",
     "name": "PostgreSQL",
     "mode": "dark",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/postgresql-light.svg",
     "name": "PostgreSQL",
     "mode": "light",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/postman.svg",
     "name": "Postman",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/powershell-dark.svg",
     "name": "Powershell",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/powershell-light.svg",
     "name": "Powershell",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/premiere.svg",
     "name": "Premiere",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/prisma.svg",
     "name": "Prisma",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/processing-dark.svg",
     "name": "Processing",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/processing-light.svg",
     "name": "Processing",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/prometheus.svg",
     "name": "Prometheus",
     "mode": "default",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/pug-dark.svg",
     "name": "Pug",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/pug-light.svg",
     "name": "Pug",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/python-dark.svg",
     "name": "Python",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/python-light.svg",
     "name": "Python",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/pytorch-dark.svg",
     "name": "PyTorch",
     "mode": "dark",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/pytorch-light.svg",
     "name": "PyTorch",
     "mode": "light",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/qt-dark.svg",
     "name": "QT",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/qt-light.svg",
     "name": "QT",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/r-dark.svg",
     "name": "R",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/r-light.svg",
     "name": "R",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/rabbitmq-dark.svg",
     "name": "RabbitMQ",
     "mode": "dark",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/rabbitmq-light.svg",
     "name": "RabbitMQ",
     "mode": "light",
-    "category": "DevOps/Infrastructure"
+    "category": "infrastructure"
   },
   {
     "filename": "skill-icons/rails.svg",
     "name": "Rails",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/raspberrypi-dark.svg",
     "name": "RaspberryPi",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/raspberrypi-light.svg",
     "name": "RaspberryPi",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/react-dark.svg",
     "name": "React",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/react-light.svg",
     "name": "React",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/reactivex-dark.svg",
     "name": "ReactiveX",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/reactivex-light.svg",
     "name": "ReactiveX",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/redis-dark.svg",
     "name": "Redis",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/redis-light.svg",
     "name": "Redis",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/redux.svg",
     "name": "Redux",
     "mode": "default",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/regex-dark.svg",
     "name": "Regex",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/regex-light.svg",
     "name": "Regex",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/remix-dark.svg",
     "name": "Remix",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/remix-light.svg",
     "name": "Remix",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/replit-dark.svg",
     "name": "Replit",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/replit-light.svg",
     "name": "Replit",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/rocket.svg",
     "name": "Rocket",
     "mode": "default",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/rollupjs-dark.svg",
     "name": "RollupJS",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/rollupjs-light.svg",
     "name": "RollupJS",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ros-dark.svg",
     "name": "ROS",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ros-light.svg",
     "name": "ROS",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/ruby.svg",
     "name": "Ruby",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/rust.svg",
     "name": "Rust",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/sass.svg",
     "name": "Sass",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/scala-dark.svg",
     "name": "Scala",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/scala-light.svg",
     "name": "Scala",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/selenium.svg",
     "name": "Selenium",
     "mode": "default",
-    "category": "Testing and Automation"
+    "category": "testing"
   },
   {
     "filename": "skill-icons/sentry.svg",
     "name": "Sentry",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/sequelize-dark.svg",
     "name": "Sequelize",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/sequelize-light.svg",
     "name": "Sequelize",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/sketchup-dark.svg",
     "name": "Sketchup",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/sketchup-light.svg",
     "name": "Sketchup",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/solidity.svg",
     "name": "Solidity",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/solidjs-dark.svg",
     "name": "SolidJS",
     "mode": "dark",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/solidjs-light.svg",
     "name": "SolidJS",
     "mode": "light",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/spring-dark.svg",
     "name": "Spring",
     "mode": "dark",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/spring-light.svg",
     "name": "Spring",
     "mode": "light",
-    "category": "Backend Development"
+    "category": "backend"
   },
   {
     "filename": "skill-icons/sqlite.svg",
     "name": "SQLite",
     "mode": "default",
-    "category": "Database"
+    "category": "database"
   },
   {
     "filename": "skill-icons/stackoverflow-dark.svg",
-    "name": "StackOverflow",
+    "name": "Stack Overflow",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/stackoverflow-light.svg",
-    "name": "StackOverflow",
+    "name": "Stack Overflow",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/styledcomponents.svg",
-    "name": "StyledComponents",
+    "name": "Styled Components",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/supabase-dark.svg",
     "name": "Supabase",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/supabase-light.svg",
     "name": "Supabase",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/svelte.svg",
     "name": "Svelte",
     "mode": "default",
-    "category": "Frontend Frameworks/Libraries"
+    "category": "frontend"
   },
   {
     "filename": "skill-icons/svg-dark.svg",
     "name": "SVG",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/svg-light.svg",
     "name": "SVG",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/swift.svg",
     "name": "Swift",
     "mode": "default",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/symfony-dark.svg",
     "name": "Symfony",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/symfony-light.svg",
     "name": "Symfony",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/tailwindcss-dark.svg",
     "name": "TailwindCSS",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/tailwindcss-light.svg",
     "name": "TailwindCSS",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/tauri-dark.svg",
     "name": "Tauri",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/tauri-light.svg",
     "name": "Tauri",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/tensorflow-dark.svg",
     "name": "TensorFlow",
     "mode": "dark",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/tensorflow-light.svg",
     "name": "TensorFlow",
     "mode": "light",
-    "category": "Data Science and Machine Learning"
+    "category": "dataScience"
   },
   {
     "filename": "skill-icons/threejs-dark.svg",
     "name": "ThreeJS",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/threejs-light.svg",
     "name": "ThreeJS",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/twitter.svg",
     "name": "Twitter",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/typescript.svg",
     "name": "TypeScript",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/unity-dark.svg",
     "name": "Unity",
     "mode": "dark",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/unity-light.svg",
     "name": "Unity",
     "mode": "light",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/unrealengine.svg",
     "name": "UnrealEngine",
     "mode": "default",
-    "category": "Mobile App Development"
+    "category": "mobile"
   },
   {
     "filename": "skill-icons/v-dark.svg",
     "name": "V",
     "mode": "dark",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/v-light.svg",
     "name": "V",
     "mode": "light",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/vala.svg",
     "name": "Vala",
     "mode": "default",
-    "category": "Programming Languages"
+    "category": "languages"
   },
   {
     "filename": "skill-icons/vercel-dark.svg",
     "name": "Vercel",
     "mode": "dark",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/vercel-light.svg",
     "name": "Vercel",
     "mode": "light",
-    "category": "Cloud Platforms/Services"
+    "category": "services"
   },
   {
     "filename": "skill-icons/vim-dark.svg",
     "name": "VIM",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/vim-light.svg",
     "name": "VIM",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/visualstudio-dark.svg",
     "name": "VisualStudio",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/visualstudio-light.svg",
     "name": "VisualStudio",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/vite-dark.svg",
     "name": "Vite",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/vite-light.svg",
     "name": "Vite",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/vscode-dark.svg",
     "name": "VSCode",
     "mode": "dark",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/vscode-light.svg",
     "name": "VSCode",
     "mode": "light",
-    "category": "Code Editors/IDEs"
+    "category": "ide"
   },
   {
     "filename": "skill-icons/vuejs-dark.svg",
     "name": "VueJS",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/vuejs-light.svg",
     "name": "VueJS",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/webassembly.svg",
     "name": "WebAssembly",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/webflow.svg",
     "name": "Webflow",
     "mode": "default",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/webpack-dark.svg",
     "name": "Webpack",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/webpack-light.svg",
     "name": "Webpack",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/windicss-dark.svg",
     "name": "WindiCSS",
     "mode": "dark",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/windicss-light.svg",
     "name": "WindiCSS",
     "mode": "light",
-    "category": "Web Development"
+    "category": "web"
   },
   {
     "filename": "skill-icons/wordpress.svg",
     "name": "Wordpress",
     "mode": "default",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/workers-dark.svg",
     "name": "Workers",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/workers-light.svg",
     "name": "Workers",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/xd.svg",
     "name": "XD",
     "mode": "default",
-    "category": "Graphics and Design"
+    "category": "design"
   },
   {
     "filename": "skill-icons/zig-dark.svg",
     "name": "Zig",
     "mode": "dark",
-    "category": "Other Tools"
+    "category": "others"
   },
   {
     "filename": "skill-icons/zig-light.svg",
     "name": "Zig",
     "mode": "light",
-    "category": "Other Tools"
+    "category": "others"
   }
 ]

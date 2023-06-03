@@ -21,7 +21,7 @@ export default ({ transparent, title }) => `
                 h1 {
                     text-align: center;
                     color: #fff;
-                    font-size: 5em;
+                    font-size: 2em;
                     letter-spacing: 8px;
                     font-family: "Lucida Console", Monaco, monospace;
                     font-weight: 400;

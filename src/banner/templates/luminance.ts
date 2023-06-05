@@ -19,7 +19,6 @@ export default ({ transparent, title }) => `
                     color: white;
                     text-align: center;
                 }
-
                 .luminance {
                     background: 50% 100%/50% 50% no-repeat radial-gradient(ellipse at bottom, #fff,
                             transparent, transparent);
@@ -34,33 +33,27 @@ export default ({ transparent, title }) => `
                         reveal 3000ms ease-in-out forwards 200ms, glow 2500ms linear infinite 2000ms;
                     animation: reveal 3000ms ease-in-out forwards 200ms, glow 2500ms linear infinite 2000ms;
                 }
-
                 @-webkit-keyframes reveal {
                     80% {
                         letter-spacing: 8px;
                     }
-
                     100% {
                         background-size: 300% 300%;
                     }
                 }
-
                 @keyframes reveal {
                     80% {
                         letter-spacing: 8px;
                     }
-
                     100% {
                         background-size: 300% 300%;
                     }
                 }
-
                 @-webkit-keyframes glow {
                     40% {
                         text-shadow: 0 0 8px #fff;
                     }
                 }
-
                 @keyframes glow {
                     40% {
                         text-shadow: 0 0 8px #fff;

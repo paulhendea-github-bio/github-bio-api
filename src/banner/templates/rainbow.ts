@@ -18,7 +18,6 @@ export default ({ transparent, title }) => `
                     --color-yellow: #DEBF40;
                     --color-foreground: var(--color-white);
                 }
-
                 .container {
                     font-family:
                         system-ui,
@@ -48,7 +47,6 @@ export default ({ transparent, title }) => `
                     text-align: center;
                     font-size: 24px;
                 }
-
                 .c-rainbow {
                     counter-reset: rainbow;
                     position: relative;
@@ -82,31 +80,26 @@ export default ({ transparent, title }) => `
                     margin-left: 24px;
                     /* z-index: -30; */
                 }
-
                 .c-rainbow__layer:nth-child(4) {
                     animation-delay: calc(4 / var(--delay) * 1s);
                     margin-left: 18px;
                     /* z-index: -40; */
                 }
-
                 .c-rainbow__layer:nth-child(5) {
                     animation-delay: calc(5 / var(--delay) * 1s);
                     margin-left: 12px;
                     /* z-index: -50; */
                 }
-
                 .c-rainbow__layer:nth-child(6) {
                     animation-delay: calc(6 / var(--delay) * 1s);
                     margin-left: 6px;
                     /* z-index: -60; */
                 }
-
                 .c-rainbow__layer:nth-child(7) {
                     animation-delay: calc(7 / var(--delay) * 1s);
                     /* margin-left: 1em; */
                     /* z-index: -70; */
                 }
-
                 /* .c-rainbow__layer:not(:first-child) {
                 position: absolute;
                 top: 0;
@@ -114,38 +107,29 @@ export default ({ transparent, title }) => `
                 .c-rainbow__layer--white {
                     --text-color: var(--color-white);
                 }
-
                 .c-rainbow__layer--orange {
                     --text-color: var(--color-orange);
                 }
-
                 .c-rainbow__layer--red {
                     --text-color: var(--color-red);
                 }
-
                 .c-rainbow__layer--violet {
                     --text-color: var(--color-violet);
                 }
-
                 .c-rainbow__layer--blue {
                     --text-color: var(--color-blue);
                 }
-
                 .c-rainbow__layer--green {
                     --text-color: var(--color-green);
                 }
-
                 .c-rainbow__layer--yellow {
                     --text-color: var(--color-yellow);
                 }
-
                 @keyframes rainbow {
-
                     0%,
                     100% {
                         transform: translatey(var(--axis-y));
                     }
-
                     50% {
                         transform: translatey(calc(var(--axis-y) * -1));
                     }

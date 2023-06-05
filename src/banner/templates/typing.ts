@@ -31,17 +31,23 @@ export default ({ transparent, title }) => `
                 }
                 /* Animation */
                 .anim-typewriter {
-                animation: typewriter 1s steps(${
+                animation: typewriter 3s steps(${
                   title.length
-                }) 1s 1 normal both,
+                }) 1s infinite alternate both,
                     blinkTextCursor 500ms infinite normal;
                 }
                 @keyframes typewriter {
-                from {
+                0% {
                     width: 0;
                 }
-                to {
+                30% {
+                    width: 0;
+                }
+                60% {
                     width: 100%;
+                }
+                100% {
+                    width: 100%
                 }
                 }
                 @keyframes blinkTextCursor {

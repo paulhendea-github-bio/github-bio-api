@@ -1,10 +1,4 @@
-import {
-  ArrayNotEmpty,
-  IsArray,
-  IsObject,
-  IsOptional,
-  IsString,
-} from 'class-validator';
+import { IsArray, IsObject, IsOptional, IsString } from 'class-validator';
 
 export class GetSummaryDto {
   @IsString()
@@ -15,12 +9,11 @@ export class GetSummaryDto {
   location?: string;
 
   @IsOptional()
-  @IsArray()
   @IsObject({ each: true })
-  contact: [];
+  contact: object;
 
+  @IsOptional()
   @IsArray()
-  @ArrayNotEmpty()
   @IsString({ each: true })
   skills: string[];
 

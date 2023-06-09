@@ -1,10 +1,10 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { HydratedDocument } from 'mongoose';
 
-export type EmojiDocument = HydratedDocument<Emoji>;
+export type SkillDocument = HydratedDocument<Skill>;
 
 @Schema({ toJSON: { virtuals: true }, id: false })
-export class Emoji {
+export class Skill {
   @Prop({ required: true })
   filename: string;
 
@@ -13,10 +13,13 @@ export class Emoji {
 
   @Prop({ required: true })
   category: string;
+
+  @Prop({ required: true })
+  mode: string;
 }
 
-export const EmojiSchema = SchemaFactory.createForClass(Emoji);
-EmojiSchema.virtual('url').get(function () {
+export const SkillSchema = SchemaFactory.createForClass(Skill);
+SkillSchema.virtual('url').get(function () {
   const { ASSETS_URL } = process.env;
   return ASSETS_URL + this.filename;
 });
